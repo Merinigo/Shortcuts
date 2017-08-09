@@ -1,0 +1,17 @@
+Windows 10 - SHORTCUTS
+**********************
+
+Ctrl + Esc            Open start menu
+Ctrl + Shift + Esc    Open task manager
+Win + E               Open file explorer
+Win + I               Open configuration
+
+Win + L               Lock active session
+Win + Alt + D         Show date and time
+Win + Pause           Show system properties
+Ctrl + Shift          Change keyboard language
+
+Alt + ->              Move forward
+Alt + <-              Move backwards
+Ctrl + Tab            Move forward in tabs
+Ctrl + Shift + Tab    Move backwards in tabs
