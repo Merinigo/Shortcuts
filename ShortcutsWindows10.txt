@@ -15,3 +15,40 @@ Alt + ->              Move forward
 Alt + <-              Move backwards
 Ctrl + Tab            Move forward in tabs
 Ctrl + Shift + Tab    Move backwards in tabs
+
+
+--Window shortcuts--
+
+Win + Tab             Show task view
+Alt + Tab             Change app in task view
+Win + T               Change app in task bar
+Win + S               Open search
+Win + Number          Open app in task bar position
+Win + Shift + Number  Open new window of app in task bar position
+Alt + F4              Close app
+Alt + Space           Open window context menu
+Win + M               Minimize window all windows
+Win + Up              Maximize window
+Win + Down            Minimize window
+Win + Left            Maximize window to left
+Win + Right           Maximize window to right
+Win + ,               Show desktop temporaly
+
+
+--File explorer--
+
+F2                    Change name
+F6                    Move on inputs
+Ctrl + MouseWheel     Change icon size
+Shift + F10           Context menu
+Alt + P               Preview
+F3                    Find
+Ctrl + F              Find
+Alt + D               Go to adress bar
+F4                    Show adresses
+Alt + Enter           Show properties
+Ctrl + N              Open new window
+Ctrl + W              Close window
+BloqNum + +           Expand folder
+BloqNum + -           Collapse folder
+Ctrl + A              Select all
