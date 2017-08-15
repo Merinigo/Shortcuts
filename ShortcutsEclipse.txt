@@ -1,0 +1,110 @@
+Eclipse - SHORTCUTS
+*******************
+
+--Editing Source Code--
+
+Ctrl + Space              Content Assist
+Ctrl + 1                  Quick Fix and Quick Assist
+
+
+--Code information--
+
+Ctrl + O                  Show outline
+F2                        Open information
+F3                        Open declaration
+F4                        Open Type Hierarchy
+Ctrl + Alt + H            Open Call Hierarchy
+Ctrl + Shift + U          Find ocurrences in file
+Ctrl + MoveOver           Open declaration or implementation
+
+
+--Refactoring--
+
+Alt + Shift + R           Rename
+Alt + Shift + V           Move method
+Alt + Shift + C           Change method signature
+
+
+--Run and debug--
+
+F5                        Step into function
+F6                        Next step
+F7                        Step out
+F8                        Skip to next breakpoint
+
+
+--Other--
+
+Ctrl (+ Shift) + F7       Switch between views
+Ctrl (+ Shift) + F8       Switch between perspectives
+Shift + F10               Show right click context menu
+
+
+--Manage files and projects--
+
+Ctrl + N                  Create new wizard
+Ctrl + Shift + R          Open resource
+Alt + Enter               Show file properties
+Ctrl + S                  Save file
+Ctrl + Shift + S          Save all files
+Ctrl + W                  Close file
+Ctrl + Shift + W          Close all files
+F5                        Refresh
+
+
+--Editor window--
+
+F12                       Jump to editor
+Ctrl + PageDown/PageUp    Swith between editors
+Ctrl + M                  Maximize window
+Ctrl + E                  Show list of open editors
+Ctrl + F6                 Show list of open editors
+Alt + <-/->               Move in editors
+Alt + -                   Open editor option menu
+Ctrl + F10                Show view menu
+Ctrl + Shift + Q          Show diff column
+Ctrl + Shift + +/-        Zoom text
+
+
+--Navigate in editor--
+
+Ctrl + Shift + Up/Down    Jump to previous/next method
+Ctrl + L                  Jump to line number
+Ctrl + Q                  Jump to last location edited
+Ctrl + Shift + P          Go to mathcing bracket
+Ctrl + Shift + /          Collapse methods
+Ctrl + Shift + *          Expand methods
+
+
+--Select Text--
+
+Ctrl + Shift + R/L        Expand to next word
+Alt + Shift + R/L         Expand to next element
+
+
+--Edit Text--
+
+Alt + Up/Down             Move line
+Ctrl + Alt + Up/Down      Duplicate line
+Ctrl + Delete             Delete next word
+Ctrl + Backspace          Delete previous word
+Shift + Enter             Enter line below
+Shift + Ctrl + Enter      Enter line above
+Shift + Ctrl + Y          Change to loweCase
+Shift + Ctrl + X          Change to upperCase
+
+
+--Search and replace--
+
+Ctrl + F                  Open find dialog
+Ctrl + H                  Search in workspace
+
+
+--Indentions and comments--
+
+Ctrl + I                  Correct indention of line
+Ctrl + Shift + F          Autoformat all code
+Ctrl + /                  Comment line or selection
+Ctrl + Shift + /          Add block comment around selection
+Ctrl + Shift + \          Remove block comment
+Alt + Shift + J           Add element comment
