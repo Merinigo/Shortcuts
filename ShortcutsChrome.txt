@@ -1,0 +1,16 @@
+Chrome - SHORTCUTS
+******************
+
+Ctrl + T            Open new Tab
+Ctrl + W            Close current tab
+Ctrl + Shift + T    Reopen last closed
+
+Ctrl + Tab          View next tab
+Ctrl + [Num]        Swith to tab position
+
+Ctrl + L            Cursor in search tab
+Ctrl + Backspace    Delete current search
+
+Ctrl + D            Save as bookmark
+
+Ctrl+Shift+Supr     Delete navigation data
